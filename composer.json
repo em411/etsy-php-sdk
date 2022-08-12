@@ -1,6 +1,6 @@
 {
   "name": "em411/etsy-php-sdk",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "description": "PHP SDK for Etsy API v3.",
   "type": "library",
   "keywords": [
